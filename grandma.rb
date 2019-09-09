@@ -1,7 +1,7 @@
 def speak_to_grandma method(phrase)
-  if phrase=I LOVE YOU GRANDMA!
-    puts I LOVE YOU TOOPUMPKIN!
-  else if puts 
+  if phrase="I LOVE YOU GRANDMA!"
+    puts "I LOVE YOU TOOPUMPKIN!"
+  else if puts "HUH?! SPEAK UP, SONNY!"
 end
 
 # Whatever you say to grandma, she should respond with
